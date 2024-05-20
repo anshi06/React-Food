@@ -11,6 +11,10 @@ This is a basic food ordering application built with React. The application allo
 - **Submit Order**: Send cart data along with user details to the backend using a POST request (`/orders`).
 - **Error Handling**: Manage loading and error states effectively.
 
+## Screentshots
+![image](https://github.com/anshi06/React-Food/assets/103870511/3e0d301e-36aa-4c88-944e-489ac1eb941c)
+
+
 ## Technologies Used
 
 - React
